@@ -14,7 +14,6 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 
-
 - Bulleted
 - List
 
